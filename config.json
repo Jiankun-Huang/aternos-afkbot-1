@@ -1,7 +1,7 @@
 {
-	"host": "Enter your server ip or url.",
-	"port": "Enter your server port. (If you don't know about this, maybe the default is 25565)",
-	"username": "Enter the AFKBot's username you want. (Whatever doesn't matter)",
+	"host": "JBX2010.aternos.me",
+	"port": "44026",
+	"username": "JBX2010's Minion",
 	"logger": [true, "comment will be added here"],
 
 	"DO_NOT_EDIT_CONFIGS_DOWN_BELOW": "IF YOU DON'T KNOW WHAT YOU'RE DOING",
